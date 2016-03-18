@@ -1,0 +1,8 @@
+# ls ~/.atom/packages
+aligner-php      autocomplete-html-entities  git-diff-details       linter                    linter-scss-lint            php-cs-fixer                      react-snippets
+angularjs        autocomplete-php            highlight-selected     linter-eslint             merge-conflicts             php-integrator-autocomplete-plus  README.md
+atom-beautify    autocomplete-plus           html2haml              linter-haml               minimap                     pigments                          remote-sync
+atom-jade        autocomplete-ruby           keyboard-localization  linter-htmlhint           minimap-bookmarks           pinned-tabs                       rest-client
+atom-minify      color-picker                language-babel         linter-js-yaml            minimap-git-diff            project-manager                   symbols-tree-view
+atom-typescript  file-icons                  language-haml          linter-node-markdownlint  minimap-highlight-selected  react                             -syntax
+autoclose-html   file-templates              line-diff-details      linter-php                minimap-linter              react-es6-snippets                terminal-plus
